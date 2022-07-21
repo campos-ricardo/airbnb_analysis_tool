@@ -61,4 +61,4 @@ Return of investment indicates with how many rents the buyer will have the finan
   </ul>  
   </p>
 
-  <p>The tool can be accessed using the following link :<a href = "https://house-rocket-analytics-ricardo.herokuapp.com/"> Analysis Tool</a></p>
+  <p>The tool can be accessed using the following link :<a href = "https://airbnb-analytics.herokuapp.com/"> Analysis Tool</a></p>
