@@ -10,7 +10,6 @@ import streamlit as st
 from streamlit_folium import st_folium
 import folium
 from folium.plugins import MarkerCluster
-import geopandas
 import plotly.express as px
 import math
 
